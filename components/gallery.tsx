@@ -8,17 +8,17 @@ import { ArrowRight } from "lucide-react";
 
 const images = [
   {
-    src: "https://images.unsplash.com/photo-1600457048942-a46f5069cb42?auto=format&fit=crop&q=80&w=1200",
+    src: "/images/statuie.jpg",
     alt: "Historical Romanian building",
     title: "Revolutionary Headquarters",
   },
   {
-    src: "https://images.unsplash.com/photo-1557425300-c3f6addf1e1c?auto=format&fit=crop&q=80&w=1200",
+    src: "/images/apuseni.jpg",
     alt: "Mountain landscape",
     title: "Apuseni Mountains",
   },
   {
-    src: "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?auto=format&fit=crop&q=80&w=1200",
+    src: "/images/document.jpg",
     alt: "Historical documents",
     title: "Revolutionary Documents",
   },
